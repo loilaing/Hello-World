@@ -40,6 +40,7 @@
 - [Kushantha Charuka](https://github.com/Kushiya)
 - [Lejla I](https://github.com/Ley2717)
 - [Lilian F](https://github.com/lilianferreira)
+- [Loi Laing](https://github.com/loilaing)
 - [Loris Gabriele](https://github.com/Pyr0x1)
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Manu Sharma] (https://github.com/iammanusharma)
